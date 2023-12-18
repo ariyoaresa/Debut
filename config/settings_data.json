@@ -68,7 +68,6 @@
         "type": "header",
         "settings": {
           "align_logo": "left",
-          "logo": "shopify:\/\/shop_images\/1.2-Logo_vertical.png",
           "logo_max_width": "260",
           "main_linklist": "main-menu",
           "phone_text": "+1-800-806-0716",
@@ -84,7 +83,7 @@
       "hero": {
         "type": "hero",
         "settings": {
-          "image": "shopify:\/\/shop_images\/photo-1484081064812-86e90e107fa8.jpg",
+          "image": "shopify:\/\/shop_images\/vintage-shopping.jpg",
           "alignment": "center",
           "title": "Check out our new collections.",
           "text": "<p>Save up to 50% on selected items!<\/p>",
@@ -147,37 +146,37 @@
           "1508981222613-0": {
             "type": "featured_collection",
             "settings": {
-              "collection": "gadgets"
+              "collection": "hoodies"
             }
           },
           "1508981222613-1": {
             "type": "featured_collection",
             "settings": {
-              "collection": "kids"
+              "collection": "sweatshirt"
             }
           },
           "1508981222613-2": {
             "type": "featured_collection",
             "settings": {
-              "collection": "christmas-gifts-decorations"
+              "collection": "stickers"
             }
           },
           "1509358030931": {
             "type": "featured_collection",
             "settings": {
-              "collection": "cooking-baking"
+              "collection": "hoodies"
             }
           },
           "1509358056791": {
             "type": "featured_collection",
             "settings": {
-              "collection": "home-living"
+              "collection": "sweatshirt"
             }
           },
           "1509358043836": {
             "type": "featured_collection",
             "settings": {
-              "collection": "beauty"
+              "collection": "stickers"
             }
           }
         },
@@ -198,11 +197,11 @@
         "type": "collection",
         "settings": {
           "title": "Collection of the day",
-          "collection": "christmas-gifts-decorations",
+          "collection": "sweatshirt",
           "grid": "3",
-          "rows": "2",
+          "rows": "1",
           "show_vendor": false,
-          "show_view_all": false
+          "show_view_all": true
         }
       },
       "1509357808487": {
@@ -262,7 +261,8 @@
       "sections": {
         "header": {
           "type": "header",
-          "settings": {}
+          "settings": {
+          }
         },
         "hero": {
           "type": "hero",
@@ -275,18 +275,21 @@
           "blocks": {
             "slideshow-0": {
               "type": "image",
-              "settings": {}
+              "settings": {
+              }
             },
             "slideshow-1": {
               "type": "image",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
             "slideshow-0",
             "slideshow-1"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "featured-collections": {
           "type": "collection",
@@ -296,7 +299,8 @@
         },
         "feature-row": {
           "type": "feature-row",
-          "settings": {}
+          "settings": {
+          }
         },
         "footer": {
           "type": "footer",
