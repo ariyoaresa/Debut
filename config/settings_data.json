@@ -68,7 +68,8 @@
         "type": "header",
         "settings": {
           "align_logo": "left",
-          "logo_max_width": "260",
+          "logo": "shopify:\/\/shop_images\/I_am_a__3_-removebg-preview_684a7881-bfd5-4647-80e8-21ec763393ce.png",
+          "logo_max_width": "100",
           "main_linklist": "main-menu",
           "phone_text": "+1-800-806-0716",
           "message": false,
