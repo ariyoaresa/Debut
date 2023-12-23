@@ -47,7 +47,7 @@
     "show_decimal_places": true,
     "hide_decimal_places": false,
     "currency_format": "money_with_currency_format",
-    "supported_currencies": "INR GBP CAD USD AUD EUR JPY",
+    "supported_currencies": "INR GBP CAD USD AUD EUR JPY  NGN",
     "default_currency": "USD",
     "checkout_header_image": "",
     "checkout_logo_image": "shopify:\/\/shop_images\/checkout-image_b8e9dc9f-6436-4380-98de-70b4ffc21112.png",
@@ -71,7 +71,7 @@
           "logo": "shopify:\/\/shop_images\/I_am_a__3_-removebg-preview_684a7881-bfd5-4647-80e8-21ec763393ce.png",
           "logo_max_width": "100",
           "main_linklist": "main-menu",
-          "phone_text": "+1-800-806-0716",
+          "phone_text": "+234 708 113 4216",
           "message": false,
           "message_text": "TODAY: Worldwide shipping only $2.95 ❤",
           "banner_text": "Want 5% DISCOUNT? Use discount code FOX5. Valid for 10 minutes.",
@@ -96,10 +96,13 @@
       },
       "footer": {
         "type": "footer",
+        "custom_css": [
+
+        ],
         "settings": {
           "footer_linklist": "footer",
           "footer_linklist_two": "",
-          "phone_text": "+1-800-806-0716",
+          "phone_text": "+234 708 113 4216",
           "footer_newsletter_enable": false,
           "show_payment_icons": true
         }
@@ -223,7 +226,7 @@
           "1509357808487-0"
         ],
         "settings": {
-          "title": "About Fox Stark"
+          "title": "About Printa-riz"
         }
       }
     },
