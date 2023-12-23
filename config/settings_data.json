@@ -201,7 +201,7 @@
         "type": "collection",
         "settings": {
           "title": "Collection of the day",
-          "collection": "sweatshirt",
+          "collection": "glasswares",
           "grid": "3",
           "rows": "1",
           "show_vendor": false,
