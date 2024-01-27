@@ -66,9 +66,11 @@
     "sections": {
       "header": {
         "type": "header",
+        "custom_css": [
+          "header {box-shadow: 10px 4px 10px black;}"
+        ],
         "settings": {
           "align_logo": "left",
-          "logo": "shopify:\/\/shop_images\/I_am_a__3_-removebg-preview_684a7881-bfd5-4647-80e8-21ec763393ce.png",
           "logo_max_width": "100",
           "main_linklist": "main-menu",
           "phone_text": "+234 708 113 4216",
@@ -83,8 +85,10 @@
       },
       "hero": {
         "type": "hero",
+        "custom_css": [
+          "h2 {color: black; font-weight: bold; font-family: helvetica;}"
+        ],
         "settings": {
-          "image": "shopify:\/\/shop_images\/vintage-shopping.jpg",
           "alignment": "center",
           "title": "Check out our new collections.",
           "text": "<p>Save up to 50% on selected items!<\/p>",
@@ -164,37 +168,16 @@
             "settings": {
               "collection": "phone-cases"
             }
-          },
-          "1509358030931": {
-            "type": "featured_collection",
-            "settings": {
-              "collection": "bags"
-            }
-          },
-          "1509358056791": {
-            "type": "featured_collection",
-            "settings": {
-              "collection": "glasswares"
-            }
-          },
-          "1509358043836": {
-            "type": "featured_collection",
-            "settings": {
-              "collection": "stickers"
-            }
           }
         },
         "block_order": [
           "1508981222613-0",
           "1508981222613-1",
-          "1508981222613-2",
-          "1509358030931",
-          "1509358056791",
-          "1509358043836"
+          "1508981222613-2"
         ],
         "settings": {
           "title": "Trending collections",
-          "grid": "3"
+          "grid": "4"
         }
       },
       "1509357672432": {
